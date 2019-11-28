@@ -1,0 +1,16 @@
+#RewriteEngine On
+#RewriteCond %{HTTP_HOST} ^trends.com.ph
+#RewriteRule (.*) https://www.trends.com.ph/$1 [R=301,L]
+
+# This allows you to redirect your entire website to any other domain
+#Redirect 302 / https://www.tgi.com.ph/under-construction/
+
+#The following line redirects all URLs on your site to the new site.
+#Redirect 301 / https://www.tgi.com.ph/under-construction/
+
+#----------------------------------
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^tgi.com.ph
+RewriteRule (.*) https://www.tgi.com.ph/$1 [R=301,L]
+# Make PHP code look like other code types
+AddType application/x-httpd-php .asp .py .pl

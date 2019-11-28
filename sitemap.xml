@@ -1,0 +1,32 @@
+  <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.tgi.com.ph</loc>
+    <lastmod>2019-24-09</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+  <loc>https://www.tgi.com.ph/#commitment</loc>
+    <lastmod>2019-24-09</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.tgi.com.ph/#history</loc>
+    <lastmod>2019-24-09</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.tgi.com.ph/history.html</loc>
+    <lastmod>2019-24-09</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tgi.com.ph/#values</loc>
+    <lastmod>2019-24-09</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://www.tgi.com.ph/#subsidiaries</loc>
+    <lastmod>2019-24-09</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+</urlset>
